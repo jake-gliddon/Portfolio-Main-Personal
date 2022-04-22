@@ -15,6 +15,13 @@
     @include respond(phone) {
       margin-bottom: 0rem;
     }
+    .project-title {
+      margin-bottom: 15rem;
+
+    @include respond(phone) {
+      margin-bottom: 0rem;
+    }
+    }
 
     .row {
       margin-bottom: 8rem;
